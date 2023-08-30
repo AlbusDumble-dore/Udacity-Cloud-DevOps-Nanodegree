@@ -1,0 +1,4 @@
+Project: Project: Give Your Application Auto-Deploy Superpowers
+
+URL01 - Public Url to GitHub repository - https://github.com/AlbusDumble-dore/cdond-c3-projectstarter
+URL02 - Public URL for your S3 Bucket (aka, your green candidate front-end) - http://udapeople-3b38efd.s3-website-us-east-1.amazonaws.com/#/employees
