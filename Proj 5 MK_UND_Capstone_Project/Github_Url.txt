@@ -1,0 +1,11 @@
+https://github.com/AlbusDumble-dore/UdacityNDCapstone/tree/main
+
+Screenshots:
+1. DockerHub Repo
+2. Linting fail
+3. Linting pass
+4. CircleCi jobs
+5. Kubernetes cluster worker instances
+6. CloudFormation stacks creation
+7. Application
+8. Kubectl output
