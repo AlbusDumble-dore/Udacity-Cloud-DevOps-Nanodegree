@@ -15,7 +15,7 @@ Pop3 also email receiving , more user friendly method of accessing mailboxes , t
 7. 8- photo
 8. Place misc
 
-examtopic: corelate from google doc
+examtopic: corelate from https://docs.google.com/document/d/1oYaHurQ4GIBLWMcJw1LKmcQASoKrZcAmH65ZQPsky4g/edit?usp=sharing_eil_se_dm&ts=65ccddfd
 alb vs nlb
 cloud dataflow
 cloud datastore
