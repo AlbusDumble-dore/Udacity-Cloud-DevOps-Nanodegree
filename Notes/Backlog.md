@@ -14,6 +14,9 @@ Pop3 also email receiving , more user friendly method of accessing mailboxes , t
 6. 159- photos
 7. 8- photo
 8. Place misc
+9. 47 Launch template example miss
+48 lb
+Continue from storage 52
 
 examtopic: corelate from https://docs.google.com/document/d/1oYaHurQ4GIBLWMcJw1LKmcQASoKrZcAmH65ZQPsky4g/edit?usp=sharing_eil_se_dm&ts=65ccddfd
 alb vs nlb
@@ -24,3 +27,10 @@ dedicated interconnect - physical connection between data center and gcp , high 
 helm
 dataproc
 dataprep datalab
+Gcp logging stackdriver
+Data flow - etl pipeline
+Data proc - Hadoop /spark big data work
+Data store
+Data prep
+Spanner
+Mig is made from instance template which is made from custom image 
