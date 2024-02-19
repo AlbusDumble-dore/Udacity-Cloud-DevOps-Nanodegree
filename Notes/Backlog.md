@@ -34,3 +34,6 @@ Data store
 Data prep
 Spanner
 Mig is made from instance template which is made from custom image 
+Runbook
+App engine flexible and standard
+Anthos
