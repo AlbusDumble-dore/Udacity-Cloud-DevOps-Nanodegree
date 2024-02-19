@@ -21,20 +21,3 @@ Continue from storage 52
 examtopic: corelate from https://docs.google.com/document/d/1oYaHurQ4GIBLWMcJw1LKmcQASoKrZcAmH65ZQPsky4g/edit?usp=sharing_eil_se_dm&ts=65ccddfd
 Revise before exam - udacity notes, google doc notes, use cases - videos and material /n
 alb vs nlb
-cloud dataflow
-cloud datastore
-blob storage
-dedicated interconnect - physical connection between data center and gcp , high speed, secure
-helm
-dataproc
-dataprep datalab
-Gcp logging stackdriver
-Data flow - etl pipeline
-Data proc - Hadoop /spark big data work
-Data store
-Data prep
-Spanner
-Mig is made from instance template which is made from custom image 
-Runbook
-App engine flexible and standard
-Anthos
