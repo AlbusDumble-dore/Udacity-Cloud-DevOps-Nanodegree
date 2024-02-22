@@ -19,6 +19,8 @@ Pop3 also email receiving , more user friendly method of accessing mailboxes , t
 Continue from storage 52
 
 examtopic: corelate from https://docs.google.com/document/d/1oYaHurQ4GIBLWMcJw1LKmcQASoKrZcAmH65ZQPsky4g/edit?usp=sharing_eil_se_dm&ts=65ccddfd
-Revise before exam - udacity notes, google doc notes, use cases - videos and material /n
+Revise before exam - udacity notes, google doc notes, use cases doc 
 alb vs nlb
-asish screenshot 
+asish screenshots
+gcp pca youtube
+
