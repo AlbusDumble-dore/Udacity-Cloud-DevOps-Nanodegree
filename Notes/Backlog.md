@@ -19,7 +19,11 @@ Pop3 also email receiving , more user friendly method of accessing mailboxes , t
 Continue from storage 52
 
 examtopic: corelate from https://docs.google.com/document/d/1oYaHurQ4GIBLWMcJw1LKmcQASoKrZcAmH65ZQPsky4g/edit?usp=sharing_eil_se_dm&ts=65ccddfd
-Revise before exam - udacity notes updated from tab, google doc notes, use cases doc 
+
+
+Revise before exam - udacity notes updated from tab, , use cases doc 
+google doc notes - 3 - cde, 5-c , 30 -ef
+pdf exam dump
 asish screenshots
 gcp pca youtube
 
@@ -28,5 +32,5 @@ Open telemetry
 alb vs nlb :
   Alb- version / api endpoints split/ external traffic
   Nlb - traffic split within gcp
-
+addition of another vpn tunnel solves through put issue but not latency issue when connecting to on prem , interconnect solves latency 
 
