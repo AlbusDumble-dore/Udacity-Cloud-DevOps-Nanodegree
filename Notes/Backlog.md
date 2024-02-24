@@ -33,4 +33,5 @@ alb vs nlb :
   Alb- version / api endpoints split/ external traffic
   Nlb - traffic split within gcp
 addition of another vpn tunnel solves through put issue but not latency issue when connecting to on prem , interconnect solves latency 
+real time data flow - pub/sub
 
