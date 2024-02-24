@@ -24,3 +24,8 @@ alb vs nlb
 asish screenshots
 gcp pca youtube
 
+Cors
+Open telemetry 
+
+Alb- version / api endpoints split/ external traffic
+Nlb - traffic split within gcp
