@@ -1,4 +1,4 @@
-udacity.pdf nontes review
+udacity.pdf notes review
 1. page 5 osi model shift to networking concepts
 2. Combine all CIDR refernces - page 5
 3 page 12,13 gcp fundamentals to before networking
@@ -18,10 +18,8 @@ Pop3 also email receiving , more user friendly method of accessing mailboxes , t
 48 lb
 Continue from storage 52
 
-
-google doc notes
-use cases doc 
-pdf exam dump
+Prep - 
+pdf exam dump gcp 
 udacity notes,
-
+scrum guide
 
