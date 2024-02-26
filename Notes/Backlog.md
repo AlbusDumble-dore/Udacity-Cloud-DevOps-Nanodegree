@@ -16,7 +16,7 @@ Pop3 also email receiving , more user friendly method of accessing mailboxes , t
 8. Place misc
 9. 47 Launch template example miss
 48 lb
-aws cicd
+   aws cicd
 
 
 Prep - 
