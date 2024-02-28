@@ -23,4 +23,5 @@ Prep -
 pdf exam dump gcp 
 udacity notes,
 scrum guide
+rpa notes? 2 copies
 
