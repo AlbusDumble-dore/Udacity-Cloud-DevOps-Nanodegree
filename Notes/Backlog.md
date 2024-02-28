@@ -17,11 +17,15 @@ Pop3 also email receiving , more user friendly method of accessing mailboxes , t
 9. 47 Launch template example miss
 48 lb
    aws cicd
+   Software Defined Networking pg 79
+   
 
 
 Prep - 
+interview questions - cloud devops , aws, gcp, k8
 pdf exam dump gcp 
 udacity notes,
+projects
 scrum guide
 rpa notes? 2 copies
 
