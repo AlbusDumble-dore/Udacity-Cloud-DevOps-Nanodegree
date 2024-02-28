@@ -1,6 +1,6 @@
 udacity.pdf notes review
 1. page 5 osi model shift to networking concepts
-2. Combine all CIDR refernces - page 5
+2. Combine all CIDR refernces - page 5 , 79
 3 page 12,13 gcp fundamentals to before networking
 
 1. Page 137 - eg. 10.88.135.144 -> 10.88.135.144/8
