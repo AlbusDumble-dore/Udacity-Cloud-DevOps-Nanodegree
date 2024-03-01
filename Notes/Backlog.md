@@ -21,7 +21,7 @@ Pop3 also email receiving , more user friendly method of accessing mailboxes , t
    60 instance name question
    chapter 4 flow of make file , docker circleci etc..
    129 Kubernetes cluster autoscaling 
-   
+   nanodegree projects in notes screenshot
 
 
 Prep - 
