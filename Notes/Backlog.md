@@ -28,7 +28,8 @@ Prep -
 interview questions - cloud devops , aws, gcp, k8
 pdf exam dump gcp 
 udacity notes,
-projects
+projects 
+   google how to deploy reactjs project on aws
 scrum guide
 rpa notes? 2 copies
 
