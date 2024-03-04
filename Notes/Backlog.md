@@ -25,7 +25,7 @@ Pop3 also email receiving , more user friendly method of accessing mailboxes , t
 
 
 Prep - 
-interview questions - cloud devops , aws, gcp, k8
+interview questions google - cloud devops , aws, gcp, k8
 pdf exam dump gcp 
 udacity notes,
 projects 
