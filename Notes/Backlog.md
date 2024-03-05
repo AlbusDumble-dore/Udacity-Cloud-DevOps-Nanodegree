@@ -25,7 +25,7 @@ Pop3 also email receiving , more user friendly method of accessing mailboxes , t
    
 Aws cost - cost explorer, budgets can be setup. Cost allocation tag to identify and break cost analysis
 Centralised logging solution - cloud watch + cloud trail to gather logs via kinesis and store in s3 and use elasticsearch + kibana to visualise
-Aws config
+Aws config - point in time config details for aws resources as ci - configuration items
 Aws shield - for ddos attack 
 Aws armour
 Types of virtualization
@@ -38,8 +38,9 @@ buffer in aws
 aws cloudsearch
 aws elastic transcoder
 aws lightsail
-
-
+aws macie - ml service for personal data protection 
+aws ecs vs eks
+sagemaker
 
 Prep - 
 interview questions google - cloud devops , aws, gcp, k8
