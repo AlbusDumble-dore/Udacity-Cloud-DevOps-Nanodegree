@@ -44,7 +44,7 @@ sagemaker
 connection draining
 image pull policy in kubernetes   
 kubernetes daemonset
-
+amazon ses
 
 Prep - 
 interview questions google - cloud devops , aws, gcp, k8
