@@ -41,6 +41,8 @@ aws lightsail
 aws macie - ml service for personal data protection 
 aws ecs vs eks
 sagemaker
+connection draining
+
 
 Prep - 
 interview questions google - cloud devops , aws, gcp, k8
