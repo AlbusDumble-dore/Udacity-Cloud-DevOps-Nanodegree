@@ -42,6 +42,8 @@ aws macie - ml service for personal data protection
 aws ecs vs eks
 sagemaker
 connection draining
+image pull policy in kubernetes   
+kubernetes daemonset
 
 
 Prep - 
