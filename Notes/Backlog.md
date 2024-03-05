@@ -22,6 +22,7 @@ Pop3 also email receiving , more user friendly method of accessing mailboxes , t
    chapter 4 flow of make file , docker circleci etc..
    129 Kubernetes cluster autoscaling 
    nanodegree projects in notes screenshot
+   
 Aws cost - cost explorer, budgets can be setup. Cost allocation tag to identify and break cost analysis
 Centralised logging solution - cloud watch + cloud trail to gather logs via kinesis and store in s3 and use elasticsearch + kibana to visualise
 Aws config
@@ -33,6 +34,13 @@ Nat gtw managed by aws , ha and better performance,billed on no of gateway durat
 Reserved instance type - light medium high
 Types of Ami design - fully baked - simple ready to use fastest to deploy, jeOS just enough - minimal functional os flexible, hybrid - best of both security and logging pre built and os v can be customised
 Recover login to ec2 if key lost- verify ec2 config service is running, detach root volume from instance, attach to temp instance, modify config file and restart the original instance
+vpc flow logs
+seimplilearn q 24, 26 and 27
+buffer in aws
+aws cloudsearch
+aws elastic transcoder
+aws lightsail
+
 
 
 Prep - 
