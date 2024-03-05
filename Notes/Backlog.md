@@ -45,6 +45,7 @@ connection draining
 image pull policy in kubernetes   
 kubernetes daemonset
 amazon ses
+aws service x
 
 Prep - 
 interview questions google - cloud devops , aws, gcp, k8
