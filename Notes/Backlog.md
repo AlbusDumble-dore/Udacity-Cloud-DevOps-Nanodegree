@@ -8,7 +8,7 @@ udacity.pdf notes review
     chapter 4 flow of make file , docker circleci etc..
 
 aws cicd   
-   129 Kubernetes cluster autoscaling 
+129 Kubernetes cluster autoscaling 
 Aws config - point in time config details for aws resources as ci - configuration items
 Aws shield - for ddos attack 
 Aws armour
@@ -21,17 +21,17 @@ aws ecs vs eks
 connection draining
 image pull policy in kubernetes   
 kubernetes daemonset
-
+sonarqube
 
 
 
 
 Prep - 
 interview questions google - cloud devops , aws, gcp, k8
-pdf exam dump gcp 
-udacity notes,
 projects 
    google how to deploy reactjs project on aws
+pdf exam dump gcp 
+udacity notes,
 scrum guide
 rpa notes? 2 copies
 
