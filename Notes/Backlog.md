@@ -26,7 +26,7 @@ sonarqube
 
 
 Prep - 
-interview questions google - cloud devops , aws, gcp, k8
+interview questions google - cloud devops , aws, gcp, k8, cicd, Terraform
 projects 
    google how to deploy reactjs project on aws
 pdf exam dump gcp 
