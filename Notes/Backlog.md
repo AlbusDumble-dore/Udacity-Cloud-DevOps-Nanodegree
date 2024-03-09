@@ -20,7 +20,6 @@ aws macie - ml service for personal data protection
 aws ecs vs eks
 connection draining
 image pull policy in kubernetes   
-kubernetes daemonset
 sonarqube
 
 
