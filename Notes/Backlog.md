@@ -9,7 +9,6 @@ udacity.pdf notes review
 
 
 aws ecs vs eks
-sonarqube
 
 Prep - 
 interview questions google - cloud devops , aws, gcp, k8, cicd, Terraform
