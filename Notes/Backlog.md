@@ -9,11 +9,11 @@ udacity.pdf notes review
 
 
 aws ecs vs eks
+   google how to deploy reactjs project on aws
 
 Prep - 
 interview questions google - cloud devops , aws, gcp, k8, cicd, Terraform
 projects 
-   google how to deploy reactjs project on aws
 pdf exam dump gcp 
 udacity notes,
 scrum guide
