@@ -7,8 +7,6 @@ udacity.pdf notes review
 10.   nanodegree projects in notes screenshot
     chapter 4 flow of make file , docker circleci etc..
 
-   google how to deploy reactjs project on aws
-
 Prep - 
 interview questions google - cloud devops , aws, gcp, k8, cicd, Terraform
 projects 
