@@ -7,8 +7,6 @@ udacity.pdf notes review
 10.   nanodegree projects in notes screenshot
     chapter 4 flow of make file , docker circleci etc..
 
-
-aws ecs vs eks
    google how to deploy reactjs project on aws
 
 Prep - 
