@@ -5,6 +5,8 @@ udacity.pdf notes review
 10.   nanodegree projects in notes screenshot
     chapter 4 flow of make file , docker circleci etc..
 
+RESUME
+
 Prep priority:
 1. revision udacity notes + misc left
 2. projects 
