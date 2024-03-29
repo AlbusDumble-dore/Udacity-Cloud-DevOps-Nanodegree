@@ -5,6 +5,7 @@ Prep priority:
 2. projects  - audio
 3. pdf exam dump gcp + scrum guide - audio
 4. interview questions google - cloud devops , aws, gcp, k8, cicd, Terraform , sre
+5. faang devops interview experience 
    rpa notes? audio
 
 
